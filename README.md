@@ -28,9 +28,6 @@ Busco trabalhar com back end e me especializar com Python. Também tenho objetiv
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anvi551&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
-[Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anvi551&layout=compact&bg_color=000&border_color=30A3DC&title_color=E30A3DC&text_color=FFF)
-
-
 ## Minhas contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TCCMakeasy&repo=Site&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/TCCMakeasy/Site)
