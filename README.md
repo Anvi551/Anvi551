@@ -22,7 +22,7 @@ Busco trabalhar com back end e me especializar com Python. Também tenho objetiv
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-red?style=for-the-badge&logo=firebase&logoColor=white)![Mendix](https://img.shields.io/badge/mendix-blue?style=for-the-badge&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-red?style=for-the-badge&logo=firebase&logoColor=white) ![Mendix](https://img.shields.io/badge/mendix-blue?style=for-the-badge&logo=mendixe&logoColor=white)
 
 ## GitHub stats
 
