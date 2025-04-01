@@ -1,8 +1,8 @@
 # Quem sou eu?
 
-Oi, eu sou o Davi, estudo programação há 4 anos, sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando em ADS. 
+Oi, eu sou o Davi, estudo programação há 4 anos, sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando ADS. 
 
-Busco trabalhar com back end e me especializar com Python. Também tenho objetivos de alavancar minhas habilidade com C#, PHP e Java, além de também evoluir meus conhecimentos com Banco de Dados.
+Sou estagiário de TI em sustentação e tenho interesse nos estudos de Python. Também tenho objetivos de alavancar minhas habilidade com C#, PHP e Java, além de também evoluir meus conhecimentos com Banco de Dados.
 
 ## Contato
 
